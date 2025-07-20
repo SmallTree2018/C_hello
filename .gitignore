@@ -1,3 +1,10 @@
+# 可执行文件（无扩展名）
+1_1
+
+# visual studio code workspace
+.vscode/
+
+
 # Prerequisites
 *.d
 
